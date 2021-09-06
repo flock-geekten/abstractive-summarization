@@ -1,0 +1,29 @@
+numpy
+pandas
+mecab-python3
+jupyterlab
+
+# Correction of notational errors
+neologdn
+
+# From text to sentences
+ja-sentence-segmenter
+
+# From sentence to words
+mecabpr
+
+# Deleting Emoji
+emoji
+
+# Progress bar
+fastprogress 
+
+# Auto-formatting of code
+autopep8
+jupyterlab_code_formatter
+
+# Japanese display
+matplotlib
+japanize-matplotlib
+
+
